@@ -9,15 +9,15 @@ If you come across any bugs, errors or issues, join my Discord server and direct
 
 # Each episode and what it does:
 
-Episode 1: Setup
-Episode 2: Basic Command & Event handler and using dotenv
-Episode 3: Slash command handling
-Episode 4: Ban and unban commands
+Episode 1: Setup  
+Episode 2: Basic Command & Event handler and using dotenv  
+Episode 3: Slash command handling  
+Episode 4: Ban and unban commands  
 
 
-# Extra:
+# Extra:  
 
-All this code is MADE BY **Mazurex** ("notmazurex" on discord (Owner of Beans Cavern, server link above) , "mazurex4" on twitter / X), if anyone else claims to have coded this, they are lying.
+All this code is MADE BY **Mazurex** ("notmazurex" on discord (Owner of Beans Cavern, server link above) , "mazurex4" on twitter / X), if anyone else claims to have coded this, they are lying.  
 The only exception is: The Event and Command handlers were made by **maybeizen** ("maybeizen" on GitHub, "maybeizen" on Discord, "maybeizen" on twitter / X)
 
 I don't have a liscence for this, so you can copy and paste my code, however if you will use my code, please leave some credit, this allows me to grow.
