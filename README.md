@@ -3,7 +3,7 @@ This is all the source code for my YouTube Series ["Coding a Discord Bot"](https
 If any of the source codes have a file named ".env.example", rename it to ".env" in your own code.
 
 It's easy to copy and paste this code! Simply download the code, and in your preferred console, type "npm i" to install all the required libraries (they are prespecified in package.json so you don't have to specify which libraries to download).
-Afterwards, in the same console (or wherever you are hosting this bot) run "node bot/index.js" (this path may change depending on where you execute the command)
+Afterwards, in the same console (or wherever you are hosting this bot) run "npm run".
 
 If you come across any bugs, errors or issues, join my Discord server and directly ask for help: https://discord.gg/AYmdn5UuwJ
 
