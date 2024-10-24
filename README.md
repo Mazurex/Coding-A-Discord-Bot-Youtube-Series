@@ -20,4 +20,4 @@ Episode 4: Ban and unban commands
 All this code is MADE BY **Mazurex** ("notmazurex" on discord (Owner of Beans Cavern, server link above) , "mazurex4" on twitter / X), if anyone else claims to have coded this, they are lying.  
 The only exception is: The Event and Command handlers were made by **maybeizen** ("maybeizen" on GitHub, "maybeizen" on Discord, "maybeizen" on twitter / X)
 
-I don't have a licence for this, so you can copy and paste my code, however if you will use my code, please leave some credit, this allows me to grow.
+I don't have a license for this, so you can copy and paste my code, however if you will use my code, please leave some credit, this allows me to grow.
